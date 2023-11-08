@@ -2,7 +2,7 @@
   "name": "eslint-starter",
   "version": "1.0.0",
   "description": "eslint",
-  "main": "index.js",
+  "main": "tz.js",
   "scripts": {},
   "repository": {
     "type": "git",
